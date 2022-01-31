@@ -1,0 +1,23 @@
+{
+  "name": "lightbox-fs",
+  "version": "1.0.3",
+  "description": "A lightweight lightbox with zero dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ximena-nc/wtest2.git"
+  },
+  "keywords": [
+    "lightbox",
+    "htmllightbox"
+  ],
+  "author": "testing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ximena-nc/wtest2/issues"
+  },
+  "homepage": "https://github.com/ximena-nc/wtest2#readme"
+}
